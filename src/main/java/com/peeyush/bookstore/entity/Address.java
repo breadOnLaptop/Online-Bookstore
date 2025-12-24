@@ -12,8 +12,11 @@ import lombok.*;
 @Table(name = "addresses")
 public class Address {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String street, city, state, zipCode;
+    private String street;
+    private String city;
+    private String state;
+    private String zipCode;
 }
