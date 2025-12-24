@@ -1,6 +1,7 @@
 # 📚 Online Bookstore – Spring Boot REST API
 
 **Student Name:** Peeyush Maurya  
+**Reg Number:** 12305810
 **Project Number & Title:** 2. Online Bookstore  
 **Course:** Spring Boot  
 **Submission Type:** Individual Assignment  
